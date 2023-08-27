@@ -1,0 +1,13 @@
+{
+  "name": "oop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rectangle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "rectangle.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
